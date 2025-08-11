@@ -39,4 +39,5 @@
 - LDR3 => Equ
 - LDR4 => Grt
 - LDR5 => Lst
+
 ![Mapeamento da Placa](MapPlaca.png)
